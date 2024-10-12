@@ -1,0 +1,19 @@
+name: /home/jelmarg/micromamba/envs/stream
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - xarray
+  - hvplot
+  - streamlit
+  - matplotlib
+  - holoviews
+  - pip
+  - bokeh==2.4.3
+  - pooch
+  - netcdf4
+  - scipy
+prefix: /home/jelmarg/micromamba/envs/stream
